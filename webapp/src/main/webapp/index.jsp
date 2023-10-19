@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Registration Form for DevOps Learning</h1>
-    <p>Please fill Form</p>
+    <p>Please fill The Form</p>
     <hr>
     <label for="Name"><b>Enter Your Full Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
