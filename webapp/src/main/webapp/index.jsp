@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Registration Form for DevOps Learning</h1>
-    <p>Please fill in this form</p>
+    <p>Please fill Form</p>
     <hr>
     <label for="Name"><b>Enter Your Full Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
@@ -30,7 +30,7 @@
     <p>Already have an account? <a href="#">Sign In</a>.</p>
   </div>
 
-   <h1>Thank You Very Much.</h1>
+   <h1>Thank You Very Much</h1>
 
   
 </form>
